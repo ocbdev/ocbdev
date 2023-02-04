@@ -6,7 +6,7 @@
 ## <summary>💡:  Most Used Languages</summary>
 
 <img src="https://github-readme-stats.vercel.app/api?username=ahmetakyapi&theme=dark" >
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetakyapi&layout=compact&theme=dark" >
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ocbdev&layout=compact&theme=dark" >
 <br />
 <br />
 
